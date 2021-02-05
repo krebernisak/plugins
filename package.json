@@ -5,6 +5,7 @@
   "types": "index.d.ts",
   "files": [
     "hardhat/",
+    "ganache/",
     "*.d.ts",
     "*.d.ts.map",
     "*.js",
